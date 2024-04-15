@@ -1,5 +1,5 @@
-# Veeam Test Task
-This project includes my solution to the proposed Veeam Test Task that was sent to me via email. The project consists of a program, written in Python, that synchronizes two folders: **source** and **replica**. The program should maintain a full and identical copy of the source folder at the replica folder. To accomplish this, the following criteria should be considered:
+# Folder Sync Program
+The project consists of a program, written in Python, that synchronizes two folders: **source** and **replica**. The program should maintain a full and identical copy of the source folder at the replica folder. To accomplish this, the following criteria should be considered:
 
 1. The content of the replica folder should be modified to match exactly the content of the source folder.
 2. The synchronization should be performed periodically.
